@@ -1,0 +1,3 @@
+First, copy image directories into your project folder.
+Then uncomment the last line of StereoCalib and run StereoCalib.
+Comment out the last line and run Depth Map (you can change the images to whichever ones are in the test files)
